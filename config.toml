@@ -15,7 +15,7 @@ info = ['I have opinions']
 description = "Gerald Kanapathy's personal site"
 keywords = ""
 since = 2022
-avatarURL = '/images/pigdeer.png'
+gravatar = 'gkanapathy@gmail.com'
 enableTwemoji = true
 colorScheme = "auto"
 
