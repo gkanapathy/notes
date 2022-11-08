@@ -92,7 +92,10 @@ Nature has had plenty of time and lots of space for viruses to naturally
 exchange genetic material and create a killing plague, and somehow it hasn't
 happened yet. Maybe it's possible that someone will be able to design something
 more effective and efficient, but I have a suspicion that natural systems are a
-little more complicated than that.)
+little more complicated than that. I'm more confident in robustnes of nature
+than in "requirements" that researchers include fail-safes in their creations.
+Not that it will help human civilization, because we'll be dead or in living in
+a post-apocalyptic wasteland.)
 
 
 ### Physics
