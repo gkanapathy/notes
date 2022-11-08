@@ -1,4 +1,4 @@
-baseURL = '/notes/'
+#baseURL = '/notes/'
 languageCode = 'en-us'
 defaultContentLangauge="en"
 title = "Notes"
