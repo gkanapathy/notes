@@ -1,7 +1,7 @@
 baseURL = '/notes/'
 languageCode = 'en-us'
 defaultContentLangauge="en"
-title = "Notes1"
+title = "Notes"
 theme = 'hugo-coder'
 #enableGitInfo = true
 
@@ -15,7 +15,7 @@ info = ['I have opinions']
 description = "Gerald Kanapathy's personal site"
 keywords = ""
 since = 2022
-avatarURL = 'images/pigdeer.png'
+avatarURL = '/images/pigdeer.png'
 enableTwemoji = true
 colorScheme = "auto"
 
