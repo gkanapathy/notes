@@ -1,0 +1,64 @@
+# baseURL = 'http://example.org/'
+languageCode = 'en-us'
+defaultContentLangauge="en"
+title = 'Notes'
+theme = 'hugo-coder'
+
+[frontmatter]
+lastmod = [':default', ':fileModTime']
+date = [':default', ':fileModTime']
+
+[params]
+author = "Gerald Kanapathy"
+info = ["I have opinions"]
+description = "Gerald Kanapathy's personal site"
+keywords = ""
+since = 2022
+avatarURL = '/images/pigdeer.png'
+enableTwemoji = "true"
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/gkanapathy"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/gkanapathy"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/gkanapathy"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/gkanapathy/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 5
+url = "https://www.instagram.com/gkanapathy/"
+
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-2x fa-medium"
+#weight = 5
+#url = "https://medium.com/@johndoe"
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-2x fa-rss"
+weight = 6
+url = "/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
