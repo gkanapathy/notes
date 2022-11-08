@@ -1,4 +1,4 @@
-baseURL = 'https://gkanapathy.github.io/notes'
+baseURL = 'https://gkanapathy.github.io/notes/'
 languageCode = 'en-us'
 defaultContentLangauge="en"
 title = 'Notes'
