@@ -1,8 +1,9 @@
 baseURL = 'https://gkanapathy.github.io/notes/'
 languageCode = 'en-us'
 defaultContentLangauge="en"
-title = 'Notes'
+title = "Notes"
 theme = 'hugo-coder'
+#enableGitInfo = true
 
 [frontmatter]
 lastmod = [':default', ':fileModTime']
@@ -10,12 +11,12 @@ date = [':default', ':fileModTime']
 
 [params]
 author = "Gerald Kanapathy"
-info = ["I have opinions"]
+info = ['I have opinions']
 description = "Gerald Kanapathy's personal site"
 keywords = ""
 since = 2022
 avatarURL = 'images/pigdeer.png'
-enableTwemoji = "true"
+enableTwemoji = true
 colorScheme = "auto"
 
 [[params.social]]
