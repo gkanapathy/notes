@@ -4,6 +4,7 @@ defaultContentLangauge="en"
 title = "Notes"
 theme = 'hugo-coder'
 #enableGitInfo = true
+version = "1"
 
 [frontmatter]
 lastmod = [':default', ':fileModTime']
