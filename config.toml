@@ -1,7 +1,7 @@
 #baseURL = '/notes/'
 languageCode = 'en-us'
 defaultContentLangauge="en"
-title = "Notes1"
+title = "Notes"
 theme = 'hugo-coder'
 #enableGitInfo = true
 
