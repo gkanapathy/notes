@@ -1,21 +1,21 @@
 ---
-title: I listened to most of the End of the World podcast
+title: I listened to the End of the World podcast
 ---
 
 The first three or four episodes are setting up for what existential risk is,
 why it matters, and what it looks like. The remaining ones cover specific types
 of risk.
 
-Overall, the series covers the conventional wisdom on this topic well. It doesn't
-challenge or break new ground, but it's fine.
+Overall, it covers the conventional wisdom on this topic well; it doesn't
+challenge, break new ground, but it's fine.
 
 ### Episodes 1--3 : Fermi Paradox, Drake Equation, Great Filter, X-Risks
 
-This sets up the series, and justifies why there's actual evidence that we are
-at very high risk of going extinct, i.e. why we think there's a Great Filter in
-our future. It's pretty good but I think it should be noted there are a couple
-of other resolutions to the Fermi Paradox besides the existence of a Great
-Filter, i.e., there are good reasons that intelligent life is rare.
+This sets up the series, and justifies why we are at very high risk of going
+extinct, i.e. why we think there's a Great Filter in our future. It's pretty
+good, and the whole point of this series is about this. But I think it should be
+noted there are a couple of other resolutions to the Fermi Paradox that this
+series doesn't give much attention to.
 
 Compelling ones to me are:
 
@@ -34,29 +34,29 @@ Compelling ones to me are:
   that there isn't one Great Filter, but the filter is a series of smaller
   barriers.
 
-I think the podcast underplays the possibility that the Great Filter may
-be in the past. More importantly they underplay that the Great Filter isn't a
-single step, but a series of smaller barriers that all have to be overcome,
-i.e., a species could pass 9/10 steps, *not* go extinct by never get to space
-colonization or whatever, and that would resolve the Fermi Paradox. (e.g., the
-dinosaurs could have had an industrial civilation and never made it to space, or
-even made it to space a little beyond us, and if they didn't get unlucky could
-have just stalled out there.)
+I think the podcast also underplays the possibility that the Great Filter may be
+in the past. More importantly, I think they miss the idea that the Great Filter
+isn't a single step, but a series of smaller barriers that all have to be
+overcome, i.e., a species could pass 9/10 steps, *not* go extinct by never get
+to space colonization or whatever, and that would resolve the Fermi Paradox.
+(e.g., the dinosaurs could have had an industrial civilation and never made it
+to space, or even made it to space a little beyond us, and if they didn't get
+unlucky could have just stalled out there.)
 
 ### Natural Risks
 
 Not a lot we can do directly about these, other than manage risk and mitigate.
 Mostly it comes down to eventually being able to spread the civilization so that
 when the sun blows up or there's a gamma ray burst or whatever, we can at least
-build back. I buy that.
+build back. I buy that even if it's going to happen, it's worth trying to avoid.
 
 ### Artificial Intelligence
 
-As I said, this podcast is a fine overview of the conventional conversation
-about this topic. The problem I have with the AGI fear is that it's entirely
-built around the image of the paperclip maximizer as some kind of genie, like
-any of our technologies, like fire or nuclear bombs or the brooms from the
-Sorcerer's Apprentice.
+As I said, the podcast is a perfectly fine overview of the conventional
+conversation about this topic. The problem I have is that the conventional
+conversation is entirely built around the image of the paperclip maximizer as
+some kind of genie, like any of our technologies, like fire or nuclear bombs or
+the brooms from the Sorcerer's Apprentice.
 
 It just seems far-fetched to me that we posit some AI that:
 
@@ -83,24 +83,27 @@ same. (Also, what stops the recursion?)
 Interesting that this came out in 2018, a year before covid. I totally agree
 that gain-of-function research is the supidest shit. You can tell that the
 fuckers who are like "it's the only way to protect us is create it" are a bunch
-of psychopaths. It's like the arsonist who becomes a fireman.
+of psychopaths. It's like arsonists who become a firemen.
 
 ("Well, technically...": While these dumbfucks could destroy easily destroy
 civilization worse than the Europeans destroyed the pre-conquest American
-civilations, I'm less convinced it would actually fully destroy the species.
-Nature has had plenty of time and lots of space for viruses to naturally
-exchange genetic material and create a killing plague, and somehow it hasn't
-happened yet. Maybe it's possible that someone will be able to design something
-more effective and efficient, but I have a suspicion that natural systems are a
-little more complicated than that. I'm more confident in robustnes of nature
+civilations, I'm less convinced it would actually extinguish the species. Nature
+has had plenty of time and lots of space for viruses to naturally exchange
+genetic material and create a killing plague, and somehow it hasn't happened
+yet. Maybe it's possible that someone will be able to design something more
+effective and efficient, but I have a suspicion that natural systems are a
+little more complicated than that. I'm more confident in robustness of nature
 than in "requirements" that researchers include fail-safes in their creations.
 Not that it will help human civilization, because we'll be dead or in living in
 a post-apocalyptic wasteland.)
 
-
 ### Physics
 
-Haven't listened to it, will probably do it this week.
+LHC/Higgs Boson: Look, it's hubris to think that we, in the 21st century in some
+underfunded science lab, is going to create something that collapses the entire
+universe's Higgs field is absurd. There are cosmic rays, black holes, neutron
+stars, magnetars, and more fucked up multiple star systems...these are just the
+ones that obviously have huge energies around them.
 
 ### ngmi
 
