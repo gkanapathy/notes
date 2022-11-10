@@ -3,7 +3,7 @@ languageCode = 'en-us'
 defaultContentLangauge="en"
 title = "Notes"
 theme = 'hugo-coder'
-#enableGitInfo = true
+enableGitInfo = true
 
 [frontmatter]
 lastmod = [':default', ':fileModTime']
@@ -19,6 +19,7 @@ since = 2022
 gravatar = 'gkanapathy@gmail.com'
 enableTwemoji = true
 colorScheme = "auto"
+commit = true
 
 [[params.social]]
 name = "Github"
