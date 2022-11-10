@@ -14,12 +14,12 @@ author = "Gerald Kanapathy"
 info = ['I have opinions']
 description = "Gerald Kanapathy's personal site"
 keywords = ""
-dateFormat = "January 2, 1970"
+dateFormat = ":date_long"
 since = 2022
 gravatar = 'gkanapathy@gmail.com'
 enableTwemoji = true
 colorScheme = "auto"
-commit = true
+commit = "https://github.com/gkanapathy/notes/commit"
 #license = "the MIT License"
 
 [[params.social]]
