@@ -20,6 +20,7 @@ gravatar = 'gkanapathy@gmail.com'
 enableTwemoji = true
 colorScheme = "auto"
 commit = true
+#license = "the MIT License"
 
 [[params.social]]
 name = "Github"
