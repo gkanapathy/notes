@@ -35,34 +35,41 @@ weight = 2
 url = "https://gitlab.com/gkanapathy"
 
 [[params.social]]
+name = "Mastodon"
+icon = "fa fa-2x fa-mastodon"
+weight = 3
+url = "https://hachyderm.io/@gkanapathy"
+rel = "me"
+
+[[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 4
 url = "https://twitter.com/gkanapathy"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 5
 url = "https://www.linkedin.com/in/gkanapathy/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
-weight = 5
+weight = 6
 url = "https://www.instagram.com/gkanapathy/"
 
 #[[params.social]]
 #name = "Medium"
 #icon = "fa fa-2x fa-medium"
-#weight = 5
+#weight = 7
 #url = "https://medium.com/@johndoe"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
-weight = 6
-url = "/index.xml"
+weight = 7
+url = "index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
