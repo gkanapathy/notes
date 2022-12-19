@@ -1,5 +1,6 @@
 ---
 title: I listened to the End of the World podcast
+draft: true
 ---
 
 The first three or four episodes are setting up for what existential risk is,
