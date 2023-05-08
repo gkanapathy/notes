@@ -53,11 +53,11 @@ icon = "fa fa-2x fa-linkedin"
 weight = 5
 url = "https://www.linkedin.com/in/gkanapathy/"
 
-[[params.social]]
-name = "Instagram"
-icon = "fa fa-2x fa-instagram"
-weight = 6
-url = "https://www.instagram.com/gkanapathy/"
+#[[params.social]]
+#name = "Instagram"
+#icon = "fa fa-2x fa-instagram"
+#weight = 6
+#url = "https://www.instagram.com/gkanapathy/"
 
 #[[params.social]]
 #name = "Medium"
@@ -68,7 +68,7 @@ url = "https://www.instagram.com/gkanapathy/"
 [[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
-weight = 7
+weight = 6
 url = "index.xml"
 rel = "alternate"
 type = "application/rss+xml"
