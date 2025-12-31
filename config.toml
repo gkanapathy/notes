@@ -24,32 +24,32 @@ commit = "https://github.com/gkanapathy/notes/commit"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fab fa-2x fa-github"
 weight = 1
 url = "https://github.com/gkanapathy"
 
 [[params.social]]
 name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+icon = "fab fa-2x fa-gitlab"
 weight = 2
 url = "https://gitlab.com/gkanapathy"
 
 [[params.social]]
 name = "Mastodon"
-icon = "fa fa-2x fa-mastodon"
+icon = "fab fa-2x fa-mastodon"
 weight = 3
 url = "https://hachyderm.io/@gkanapathy"
 rel = "me"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fab fa-2x fa-twitter"
 weight = 4
 url = "https://twitter.com/gkanapathy"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+icon = "fab fa-2x fa-linkedin"
 weight = 5
 url = "https://www.linkedin.com/in/gkanapathy/"
 
@@ -67,7 +67,7 @@ url = "https://www.linkedin.com/in/gkanapathy/"
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-2x fa-rss"
+icon = "fas fa-2x fa-rss"
 weight = 6
 url = "index.xml"
 rel = "alternate"
